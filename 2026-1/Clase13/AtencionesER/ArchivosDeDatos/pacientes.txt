@@ -1,0 +1,5 @@
+1023 Ana Cardiologia 3 10 20 30
+1005 Luis Pediatria 1 15
+1010 Marta Neurologia 4 8 9 10 11
+1002 Pedro Cardiologia 2 20 25
+1009 Patricio Orto 4 1 1 1 1

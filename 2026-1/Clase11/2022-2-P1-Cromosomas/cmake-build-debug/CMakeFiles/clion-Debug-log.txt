@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /Users/erasmo/Documents/erasmo/pucp/git/1INF27/2026-1/Clase11/2022-2-P1-Cromosomas Select CMakeLists.txt
