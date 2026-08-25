@@ -1,0 +1,4 @@
+/Users/erasmo/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /Users/erasmo/Documents/erasmo/pucp/git/1INF27/2026-1/Clase10/ArbolesBinariosRecNiveles -B /Users/erasmo/Documents/erasmo/pucp/git/1INF27/2026-1/Clase10/ArbolesBinariosRecNiveles/cmake-build-debug
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/erasmo/Documents/erasmo/pucp/git/1INF27/2026-1/Clase10/ArbolesBinariosRecNiveles/cmake-build-debug
